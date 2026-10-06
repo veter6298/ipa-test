@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+<defs>
+<filter id="filter-remove-color" x="0%" y="0%" width="100%" height="100%">
+<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" />
+</filter>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 0 0 L 14 0 L 14 14 L 0 14 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip-1">
+<rect x="0" y="0" width="14" height="14"/>
+</clipPath>
+<g id="source-7" clip-path="url(#clip-1)">
+<g clip-path="url(#clip-0)">
+<rect x="-3.08" y="-3.08" width="20.16" height="20.16" fill="rgb(0%, 0%, 0%)" fill-opacity="1"/>
+</g>
+</g>
+<mask id="mask-0">
+<g filter="url(#filter-remove-color)">
+<use xlink:href="#source-7"/>
+</g>
+</mask>
+<clipPath id="clip-2">
+<path clip-rule="nonzero" d="M 0.0273438 0.605469 L 13.671875 0.605469 L 13.671875 11.515625 L 0.0273438 11.515625 Z M 0.0273438 0.605469 "/>
+</clipPath>
+<clipPath id="clip-3">
+<rect x="0" y="0" width="14" height="12"/>
+</clipPath>
+<g id="source-6" clip-path="url(#clip-3)">
+<g clip-path="url(#clip-2)">
+<path fill-rule="evenodd" fill="rgb(0%, 0%, 0%)" fill-opacity="1" d="M 7.214844 3.480469 L 7.214844 2.269531 C 7.214844 1.457031 7.214844 1.050781 7.375 0.855469 C 7.519531 0.6875 7.730469 0.59375 7.949219 0.605469 C 8.203125 0.621094 8.5 0.894531 9.097656 1.449219 L 13.117188 5.179688 C 13.421875 5.464844 13.578125 5.605469 13.632812 5.773438 C 13.683594 5.921875 13.683594 6.078125 13.632812 6.226562 C 13.578125 6.394531 13.421875 6.535156 13.117188 6.820312 L 9.097656 10.550781 C 8.5 11.105469 8.203125 11.378906 7.949219 11.394531 C 7.730469 11.40625 7.519531 11.3125 7.375 11.144531 C 7.214844 10.949219 7.214844 10.542969 7.214844 9.730469 L 7.214844 8.519531 C 4.070312 8.519531 2.167969 9.746094 1.113281 10.804688 C 0.644531 11.273438 0.410156 11.507812 0.300781 11.515625 C 0.199219 11.519531 0.117188 11.480469 0.0585938 11.394531 C -0.00390625 11.304688 0.0351562 11.015625 0.113281 10.4375 C 0.460938 7.847656 1.839844 3.480469 7.214844 3.480469 Z M 7.214844 3.480469 "/>
+</g>
+</g>
+</defs>
+<g mask="url(#mask-0)">
+<use xlink:href="#source-6" transform="matrix(1, 0, 0, 1, 0, 1)"/>
+</g>
+</svg>

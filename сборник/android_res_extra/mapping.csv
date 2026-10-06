@@ -1,0 +1,24 @@
+source,result
+ex/out4/VideoGradient/smoothGradient 0.4.png,drawable-mdpi/smooth_gradient_0_4.png
+ex/out4/End/CallCancelIcon@3x.png,drawable-xxhdpi/call_cancel_icon.png
+ex/out4/End/CallCancelIcon@2x.png,drawable-xhdpi/call_cancel_icon.png
+ex/out4/Snow/Snow.png,drawable-mdpi/snow.png
+ex/out4/Avatar4/Avatar4.pdf,PDF:avatar4
+ex/out4/Mute/ic_call_microphone.pdf,PDF:ic_call_microphone
+ex/out4/Avatar7/Avatar7.pdf,PDF:avatar7
+ex/out4/Avatar5/Avatar5.pdf,PDF:avatar5
+ex/out4/AirpodsProMax/ic_call_airpodsmax.pdf,PDF:ic_call_airpodsmax
+ex/out4/Airpods/ic_call_audioairpods.pdf,PDF:ic_call_audioairpods
+ex/out4/AirpodsPro/ic_call_audioairpodspro.pdf,PDF:ic_call_audioairpodspro
+ex/out4/Speaker/ic_call_speaker.pdf,PDF:ic_call_speaker
+ex/out4/EmojiTooltipLock/locksettings (1).pdf,PDF:locksettings_1
+ex/out4/Avatar8/Avatar8.pdf,PDF:avatar8
+ex/out4/Avatar3/Avatar3.pdf,PDF:avatar3
+ex/out4/Bluetooth/ic_call_audiobt.pdf,PDF:ic_call_audiobt
+ex/out4/Flip/ic_flip (1).pdf,PDF:ic_flip_1
+ex/out4/SavedMessages/ic_av_savedmessages (2).pdf,PDF:ic_av_savedmessages_2
+ex/out4/Avatar1/Avatar1.pdf,PDF:avatar1
+ex/out4/Video/ic_call_camera.pdf,PDF:ic_call_camera
+ex/out4/Avatar2/Avatar2.pdf,PDF:avatar2
+ex/out4/AvatarChannel/AvatarChannel.pdf,PDF:avatar_channel
+ex/out4/Avatar6/Avatar6.pdf,PDF:avatar6
